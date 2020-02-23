@@ -1,4 +1,4 @@
-# not_polaca
+# Notación polaca
 
 Alumno: Mauricio Díaz Segura
 
